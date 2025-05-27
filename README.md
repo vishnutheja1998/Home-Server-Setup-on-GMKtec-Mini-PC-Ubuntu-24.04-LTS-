@@ -118,8 +118,8 @@ ssh vishnu@192.168.1.165  (// This is what i should bedoing, yours can be someth
 
 ---
 
-## 📌 Repo Link (To be added)
+## 📌 Repo Link 
 
 * GitHub: [vishnutheja1998/home-server-setup](https://github.com/vishnutheja1998/Home-Server-Setup-on-GMKtec-Mini-PC-Ubuntu-24.04-LTS-/)
-
+* Will contain: all bash scripts, Dockerfiles, Nginx configs, notes, and automation tasks
 
