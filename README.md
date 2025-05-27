@@ -57,8 +57,8 @@ diskutil eject /dev/disk4
 * Keyboard: US
 * Network: Wi-Fi (wlp3s0 selected and connected)
 * Disk setup: Use entire 1TB NVMe SSD (erase Windows)
-* Username: `vishnu`
-* Server Name (hostname): `garuda`
+* Username: `vishnu`   (// This is what i named, you can name anything else)
+* Server Name (hostname): `garuda`  (// This is what i named, you can name anything else)
 * Install OpenSSH: ✅ Yes
 * Featured Snaps: ❌ Skipped all
 
@@ -89,13 +89,13 @@ sudo ufw enable
 
 ```bash
 ip a
-# Wi-Fi IP: 192.168.1.165 (used for remote SSH)
+# Wi-Fi IP: 192.168.1.165 (used for remote SSH) (// This is what i have got, yours can be something else but similar)
 ```
 
 ### 4. **SSH from Mac**
 
 ```bash
-ssh vishnu@192.168.1.165
+ssh vishnu@192.168.1.165  (// This is what i should bedoing, yours can be something else but similar, use the same IP from above step)
 ```
 
 ✅ SSH access verified from Mac.
